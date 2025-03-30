@@ -1,0 +1,11 @@
+﻿{
+  "Name": "InteractionTweaks",
+  "Author": "jahangmar",
+  "Version": "1.4.2",
+  "Description": "Allows eating of multiple items, improves some menus, and more.",
+    "UniqueID": "jahangmar.InteractionTweaks",
+  "MinimumApiVersion": "4.1.0",
+    "EntryDll": "InteractionTweaksContinued.dll",
+  "Dependencies": [],
+  "UpdateKeys": [ "https://github.com/curtiola/InteractionTweaks" ]
+}

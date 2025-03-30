@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35913.81 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InteractionTweaks", "InteractionTweaks.csproj", "{F1ED3A44-3683-4D6E-BCBB-F4BD912645E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Harmony|Any CPU = Harmony|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1ED3A44-3683-4D6E-BCBB-F4BD912645E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1ED3A44-3683-4D6E-BCBB-F4BD912645E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1ED3A44-3683-4D6E-BCBB-F4BD912645E3}.Harmony|Any CPU.ActiveCfg = Harmony|Any CPU
+		{F1ED3A44-3683-4D6E-BCBB-F4BD912645E3}.Harmony|Any CPU.Build.0 = Harmony|Any CPU
+		{F1ED3A44-3683-4D6E-BCBB-F4BD912645E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1ED3A44-3683-4D6E-BCBB-F4BD912645E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7D81FF4A-557E-4FF7-9262-E0329BBCC125}
+	EndGlobalSection
+EndGlobal
